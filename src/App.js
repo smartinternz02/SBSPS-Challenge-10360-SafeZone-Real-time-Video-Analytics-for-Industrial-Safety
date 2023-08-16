@@ -5,20 +5,20 @@ function App() {
   return (
     <>
       <div
-        styles={{
+        style={{
           width: "100%",
           height: "100%",
           position: "relative",
-          background: "#000235",
+          backgroundColor: "#000235",
         }}
       >
         <div
-          styles={{
+          style={{
             left: 197,
             top: 80,
             position: "absolute",
             color: "#FFFBFB",
-            fontSize: 20,
+            fontSize: 80,
             fontFamily: "Arvo",
             fontWeight: "400",
             wordWrap: "break-word",
@@ -27,7 +27,7 @@ function App() {
           REALGUARD ANALYTICS
         </div>
         <div
-          styles={{
+          style={{
             left: 664,
             top: 80,
             position: "absolute",
@@ -57,7 +57,7 @@ function App() {
           Help & Support
         </div>
         <div
-          styles={{
+          style={{
             left: 907,
             top: 80,
             position: "absolute",
@@ -71,7 +71,7 @@ function App() {
           Privacy Policy
         </div>
         <div
-          styles={{
+          style={{
             left: 770,
             top: 80,
             position: "absolute",
@@ -85,7 +85,7 @@ function App() {
           Industries
         </div>
         <img
-          styles={{
+          style={{
             width: 602,
             height: 345,
             left: 638,
@@ -96,7 +96,7 @@ function App() {
           alt=""
         />
         <div
-          styles={{
+          style={{
             width: 305,
             left: 243,
             top: 256,
@@ -111,7 +111,7 @@ function App() {
           Enhance Industrial Safety With AI
         </div>
         <div
-          styles={{
+          style={{
             width: 284,
             left: 245,
             top: 371,
@@ -127,7 +127,7 @@ function App() {
           Protect your workspace and prevent accidents.
         </div>
         <div
-          styles={{
+          style={{
             width: 574,
             height: 29,
             left: 485,
@@ -155,7 +155,7 @@ function App() {
           alt=""
         />
         <img
-          styles={{
+          style={{
             width: 145,
             height: 148,
             left: 653,
@@ -167,7 +167,7 @@ function App() {
           alt=""
         />
         <img
-          styles={{
+          style={{
             width: 106,
             height: 159,
             left: 969,
@@ -180,7 +180,7 @@ function App() {
           k
         />
         <div
-          styles={{
+          style={{
             width: 142,
             height: 111,
             left: 371,
@@ -188,12 +188,20 @@ function App() {
             position: "absolute",
           }}
         >
-          <span styles="color: 'white', fontSize: 20, fontFamily: 'Overpass', fontWeight: '700', wordWrap: 'break-word'">
+          <span
+            style={{
+              color: "white",
+              fontSize: 20,
+              fontFamily: "Overpass",
+              fontWeight: "700",
+              wordWrap: "break-word",
+            }}
+          >
             Existing CCTV
             <br />
           </span>
           <span
-            styles={{
+            style={{
               color: "white",
               fontSize: 20,
               fontFamily: "Overpass",
@@ -206,7 +214,7 @@ function App() {
           </span>
         </div>
         <div
-          styles={{
+          style={{
             width: 159,
             left: 646,
             top: 1520,
@@ -221,15 +229,13 @@ function App() {
           Video feed is processed through Ailytics’ AI-powered video analytics
           software
         </div>
-        <div
-          styles={{ width: 177, left: 933, top: 1531, position: "absolute" }}
-        >
+        <div style={{ width: 177, left: 933, top: 1531, position: "absolute" }}>
           <span styles="color: 'white', fontSize: 20, fontFamily: 'Overpass', fontWeight: '700', wordWrap: 'break-word'">
             Real-Time Notifications
             <br />
           </span>
           <span
-            styles={{
+            style={{
               color: "white",
               fontSize: 20,
               fontFamily: "Overpass",
@@ -241,13 +247,21 @@ function App() {
             running smoothly
           </span>
         </div>
-        <div styles={{ width: 564, left: 695, top: 669, position: "absolute" }}>
-          <span styles="color: 'white', fontSize: 32, fontFamily: 'Outfit', fontWeight: '700', wordWrap: 'break-word'">
+        <div style={{ width: 564, left: 695, top: 669, position: "absolute" }}>
+          <span
+            style={{
+              color: "white",
+              fontSize: 32,
+              fontFamily: "Outfit",
+              fontWeight: "700",
+              wordWrap: "break-word",
+            }}
+          >
             About us
             <br />
           </span>
           <span
-            styles={{
+            style={{
               color: "white",
               fontSize: 24,
               fontFamily: "Outfit",
@@ -269,7 +283,7 @@ function App() {
           </span>
         </div>
         <img
-          styles={{
+          style={{
             width: 432,
             height: 317,
             left: 206,
@@ -279,7 +293,7 @@ function App() {
           src="https://via.placeholder.com/432x317"
         />
         <div
-          styles={{
+          style={{
             left: 211,
             top: 1804,
             position: "absolute",
@@ -293,7 +307,7 @@ function App() {
           Industries Involved
         </div>
         <img
-          styles={{
+          style={{
             width: 270,
             height: 265,
             left: 253,
@@ -304,7 +318,7 @@ function App() {
           src="https://via.placeholder.com/270x265"
         />
         <img
-          styles={{
+          style={{
             width: 270,
             height: 265,
             left: 599.5,
@@ -314,7 +328,7 @@ function App() {
           src="https://via.placeholder.com/270x265"
         />
         <img
-          styles={{
+          style={{
             width: 270,
             height: 265,
             left: 602,
@@ -325,7 +339,7 @@ function App() {
           src="https://via.placeholder.com/270x265"
         />
         <img
-          styles={{
+          style={{
             width: 270,
             height: 265,
             left: 926,
@@ -336,7 +350,7 @@ function App() {
           src="https://via.placeholder.com/270x265"
         />
         <div
-          styles={{
+          style={{
             width: 306,
             height: 55,
             left: 575,
@@ -349,7 +363,7 @@ function App() {
           }}
         ></div>
         <div
-          styles={{
+          style={{
             width: 291,
             height: 45,
             left: 591,
@@ -365,7 +379,7 @@ function App() {
           CONSTRUCTION
         </div>
         <div
-          styles={{
+          style={{
             width: 306,
             height: 55,
             left: 235,
@@ -378,7 +392,7 @@ function App() {
           }}
         />
         <div
-          styles={{
+          style={{
             width: 306,
             height: 55,
             left: 901,
@@ -391,7 +405,7 @@ function App() {
           }}
         />
         <div
-          styles={{
+          style={{
             left: 967,
             top: 2481,
             position: "absolute",
@@ -419,7 +433,7 @@ function App() {
           METALLURGY
         </div>
         <div
-          styles={{
+          style={{
             width: 306,
             height: 55,
             left: 572,
@@ -446,7 +460,7 @@ function App() {
           TOOLS
         </div>
         <div
-          styles={{
+          style={{
             width: 1440,
             height: 171,
             left: 0,
@@ -456,7 +470,7 @@ function App() {
           }}
         />
         <div
-          styles={{
+          style={{
             left: 601,
             top: 3133,
             position: "absolute",
