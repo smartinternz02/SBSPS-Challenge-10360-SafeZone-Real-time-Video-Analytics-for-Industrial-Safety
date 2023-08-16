@@ -101,7 +101,7 @@ function App() {
             left: 243,
             top: 256,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 32,
             fontFamily: "Roboto",
             fontWeight: "700",
@@ -116,7 +116,7 @@ function App() {
             left: 245,
             top: 371,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 20,
             fontFamily: "Outfit",
             fontWeight: "400",
@@ -133,7 +133,7 @@ function App() {
             left: 485,
             top: 1248,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 48,
             fontFamily: "Overpass",
             fontWeight: "400",
@@ -239,7 +239,7 @@ function App() {
           </span>
           <span
             style={{
-              color: "white",
+              color: "black",
               fontSize: 20,
               fontFamily: "Overpass",
               fontWeight: "400",
@@ -253,7 +253,7 @@ function App() {
         <div style={{ width: 564, left: 695, top: 669, position: "absolute" }}>
           <span
             style={{
-              color: "white",
+              color: "black",
               fontSize: 32,
               fontFamily: "Outfit",
               fontWeight: "700",
@@ -265,7 +265,7 @@ function App() {
           </span>
           <span
             style={{
-              color: "white",
+              color: "black",
               fontSize: 24,
               fontFamily: "Outfit",
               fontWeight: "400",
@@ -300,7 +300,7 @@ function App() {
             left: 211,
             top: 1804,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
