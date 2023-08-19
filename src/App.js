@@ -15,10 +15,10 @@ function App() {
         <div
           style={{
             left: 197,
-            top: 80,
+            top: 20,
             position: "absolute",
             color: "#FFFBFB",
-            fontSize: 80,
+            fontSize: 20,
             fontFamily: "Arvo",
             fontWeight: "400",
             wordWrap: "break-word",
@@ -92,7 +92,7 @@ function App() {
             top: 206,
             position: "absolute",
           }}
-          src="https://via.placeholder.com/602x345"
+          src="https://th.bing.com/th/id/OIP.RCp2Haiyao-2QSxiUziDuwHaE8?pid=ImgDet&rs=1"
           alt=""
         />
         <div
@@ -144,14 +144,14 @@ function App() {
         </div>
         <img
           styles={{
-            width: 149,
-            height: 122,
-            left: 368,
+            width: 145,
+            height: 148,
+            left: 653,
             top: 1332,
             position: "absolute",
-            borderRadius: 31,
+            borderRadius: 17,
           }}
-          src="https://via.placeholder.com/149x122"
+          src="#"
           alt=""
         />
         <img
@@ -163,7 +163,7 @@ function App() {
             position: "absolute",
             borderRadius: 17,
           }}
-          src="https://via.placeholder.com/145x148"
+          src="https://ailytics.ai/wp-content/uploads/2022/02/Ailyssa-moving-dots.gif"
           alt=""
         />
         <img
@@ -175,7 +175,7 @@ function App() {
             position: "absolute",
             borderRadius: 17,
           }}
-          src="https://via.placeholder.com/106x159"
+          src="https://ailytics.ai/wp-content/uploads/2022/02/Message.gif"
           alt=""
           k
         />
@@ -190,11 +190,12 @@ function App() {
         >
           <span
             style={{
-              color: "white",
+              color: "black",
               fontSize: 20,
               fontFamily: "Overpass",
               fontWeight: "700",
               wordWrap: "break-word",
+              color: "white",
             }}
           >
             Existing CCTV
@@ -202,11 +203,12 @@ function App() {
           </span>
           <span
             style={{
-              color: "white",
+              color: "black",
               fontSize: 20,
               fontFamily: "Overpass",
               fontWeight: "400",
               wordWrap: "break-word",
+              color: "white",
             }}
           >
             Connect to existing CCTV infrastructure
@@ -219,24 +221,25 @@ function App() {
             left: 646,
             top: 1520,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 20,
             fontFamily: "Overpass",
             fontWeight: "400",
             wordWrap: "break-word",
+            color: "white",
           }}
         >
           Video feed is processed through Ailytics’ AI-powered video analytics
           software
         </div>
         <div style={{ width: 177, left: 933, top: 1531, position: "absolute" }}>
-          <span styles="color: 'white', fontSize: 20, fontFamily: 'Overpass', fontWeight: '700', wordWrap: 'break-word'">
+          <span styles="color: 'black', fontSize: 20, fontFamily: 'Overpass', fontWeight: '700', wordWrap: 'break-word'">
             Real-Time Notifications
             <br />
           </span>
           <span
             style={{
-              color: "white",
+              color: "black",
               fontSize: 20,
               fontFamily: "Overpass",
               fontWeight: "400",
@@ -290,7 +293,7 @@ function App() {
             top: 714,
             position: "absolute",
           }}
-          src="https://via.placeholder.com/432x317"
+          src="https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2019/10/14113229/Depositphotos_4929371_l-2015.jpg"
         />
         <div
           style={{
@@ -315,7 +318,7 @@ function App() {
             position: "absolute",
             borderRadius: 9999,
           }}
-          src="https://via.placeholder.com/270x265"
+          src="https://www.mtwmag.com/wp-content/uploads/2020/09/Metal-Cutting-Industry-Growth.jpg"
         />
         <img
           style={{
@@ -325,7 +328,7 @@ function App() {
             top: 2582,
             position: "absolute",
           }}
-          src="https://via.placeholder.com/270x265"
+          src="https://th.bing.com/th/id/R.50a1f7dbc5f8566674aa7b567ea838cc?rik=UMuov6DWRH18iQ&riu=http%3a%2f%2fiminco.net%2fwp-content%2fuploads%2f2018%2f03%2fPlant-Metallurgist-1280x720.jpeg&ehk=CkxOxv1vVvYP42aKz3CaHyFf26AiVcWD4cSzDG%2fjt2E%3d&risl=&pid=ImgRaw&r=0"
         />
         <img
           style={{
@@ -336,7 +339,7 @@ function App() {
             position: "absolute",
             borderRadius: 9999,
           }}
-          src="https://via.placeholder.com/270x265"
+          src="https://th.bing.com/th/id/OIP.-oP3GDHnXTCuCfT5SAw5kAHaFj?pid=ImgDet&rs=1"
         />
         <img
           style={{
@@ -347,7 +350,7 @@ function App() {
             position: "absolute",
             borderRadius: 9999,
           }}
-          src="https://via.placeholder.com/270x265"
+          src="https://www.gpca.org.ae/wp-content/uploads/2020/03/shutterstock_1091544017.jpg"
         />
         <div
           style={{
@@ -369,7 +372,7 @@ function App() {
             left: 591,
             top: 2140,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -403,13 +406,15 @@ function App() {
             borderRadius: 10,
             border: "0.50px black solid",
           }}
-        />
+        >
+        </div>  
+      
         <div
           style={{
             left: 967,
             top: 2481,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -423,7 +428,7 @@ function App() {
             left: 278,
             top: 2486,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -450,7 +455,7 @@ function App() {
             left: 663,
             top: 2882,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -474,7 +479,7 @@ function App() {
             left: 601,
             top: 3133,
             position: "absolute",
-            color: "white",
+            color: "black",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
