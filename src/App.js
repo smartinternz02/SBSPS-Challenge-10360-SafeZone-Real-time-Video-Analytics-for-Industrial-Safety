@@ -54,7 +54,7 @@ function App() {
             wordWrap: "break-word",
           }}
         >
-          Help & Support
+        Help & Support
         </div>
         <div
           style={{
@@ -239,7 +239,7 @@ function App() {
           </span>
           <span
             style={{
-              color: "black",
+              color: "white",
               fontSize: 20,
               fontFamily: "Overpass",
               fontWeight: "400",
@@ -327,13 +327,14 @@ function App() {
             left: 599.5,
             top: 2582,
             position: "absolute",
+            borderRadius: 9999,
           }}
           src="https://th.bing.com/th/id/R.50a1f7dbc5f8566674aa7b567ea838cc?rik=UMuov6DWRH18iQ&riu=http%3a%2f%2fiminco.net%2fwp-content%2fuploads%2f2018%2f03%2fPlant-Metallurgist-1280x720.jpeg&ehk=CkxOxv1vVvYP42aKz3CaHyFf26AiVcWD4cSzDG%2fjt2E%3d&risl=&pid=ImgRaw&r=0"
         />
         <img
           style={{
             width: 270,
-            height: 265,
+            height: 265, 
             left: 602,
             top: 1851,
             position: "absolute",
