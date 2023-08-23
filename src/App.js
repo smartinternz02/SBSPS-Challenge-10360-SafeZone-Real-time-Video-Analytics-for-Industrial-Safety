@@ -41,7 +41,7 @@ function App() {
           About
         </div>
         <div
-          styles={{
+          style={{
             width: 134,
             height: 30,
             left: 1081,
@@ -54,7 +54,7 @@ function App() {
             wordWrap: "break-word",
           }}
         >
-        Help & Support
+          Help & Support
         </div>
         <div
           style={{
@@ -92,7 +92,7 @@ function App() {
             top: 206,
             position: "absolute",
           }}
-          src="https://th.bing.com/th/id/OIP.RCp2Haiyao-2QSxiUziDuwHaE8?pid=ImgDet&rs=1"
+          src="https://via.placeholder.com/602x345"
           alt=""
         />
         <div
@@ -143,15 +143,15 @@ function App() {
           HOW DOES IT WORK?
         </div>
         <img
-          styles={{
-            width: 145,
-            height: 148,
-            left: 653,
+          style={{
+            width: 149,
+            height: 122,
+            left: 368,
             top: 1332,
             position: "absolute",
-            borderRadius: 17,
+            borderRadius: 31,
           }}
-          src="#"
+          src="https://via.placeholder.com/149x122"
           alt=""
         />
         <img
@@ -163,7 +163,7 @@ function App() {
             position: "absolute",
             borderRadius: 17,
           }}
-          src="https://ailytics.ai/wp-content/uploads/2022/02/Ailyssa-moving-dots.gif"
+          src="https://via.placeholder.com/145x148"
           alt=""
         />
         <img
@@ -175,7 +175,7 @@ function App() {
             position: "absolute",
             borderRadius: 17,
           }}
-          src="https://ailytics.ai/wp-content/uploads/2022/02/Message.gif"
+          src="https://via.placeholder.com/106x159"
           alt=""
           k
         />
@@ -195,7 +195,6 @@ function App() {
               fontFamily: "Overpass",
               fontWeight: "700",
               wordWrap: "break-word",
-              color: "white",
             }}
           >
             Existing CCTV
@@ -208,7 +207,6 @@ function App() {
               fontFamily: "Overpass",
               fontWeight: "400",
               wordWrap: "break-word",
-              color: "white",
             }}
           >
             Connect to existing CCTV infrastructure
@@ -226,14 +224,21 @@ function App() {
             fontFamily: "Overpass",
             fontWeight: "400",
             wordWrap: "break-word",
-            color: "white",
           }}
         >
           Video feed is processed through Ailytics’ AI-powered video analytics
           software
         </div>
         <div style={{ width: 177, left: 933, top: 1531, position: "absolute" }}>
-          <span styles="color: 'black', fontSize: 20, fontFamily: 'Overpass', fontWeight: '700', wordWrap: 'break-word'">
+          <span
+            style={{
+              color: "black",
+              fontSize: 20,
+              fontFamily: "Overpass",
+              fontWeight: "700",
+              wordWrap: "break-word",
+            }}
+          >
             Real-Time Notifications
             <br />
           </span>
@@ -293,14 +298,14 @@ function App() {
             top: 714,
             position: "absolute",
           }}
-          src="https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2019/10/14113229/Depositphotos_4929371_l-2015.jpg"
+          src="https://via.placeholder.com/432x317"
         />
         <div
           style={{
             left: 211,
             top: 1804,
             position: "absolute",
-            color: "black",
+            color: "white",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -318,7 +323,7 @@ function App() {
             position: "absolute",
             borderRadius: 9999,
           }}
-          src="https://www.mtwmag.com/wp-content/uploads/2020/09/Metal-Cutting-Industry-Growth.jpg"
+          src="https://via.placeholder.com/270x265"
         />
         <img
           style={{
@@ -327,20 +332,19 @@ function App() {
             left: 599.5,
             top: 2582,
             position: "absolute",
-            borderRadius: 9999,
           }}
-          src="https://th.bing.com/th/id/R.50a1f7dbc5f8566674aa7b567ea838cc?rik=UMuov6DWRH18iQ&riu=http%3a%2f%2fiminco.net%2fwp-content%2fuploads%2f2018%2f03%2fPlant-Metallurgist-1280x720.jpeg&ehk=CkxOxv1vVvYP42aKz3CaHyFf26AiVcWD4cSzDG%2fjt2E%3d&risl=&pid=ImgRaw&r=0"
+          src="https://via.placeholder.com/270x265"
         />
         <img
           style={{
             width: 270,
-            height: 265, 
+            height: 265,
             left: 602,
             top: 1851,
             position: "absolute",
             borderRadius: 9999,
           }}
-          src="https://th.bing.com/th/id/OIP.-oP3GDHnXTCuCfT5SAw5kAHaFj?pid=ImgDet&rs=1"
+          src="https://via.placeholder.com/270x265"
         />
         <img
           style={{
@@ -351,7 +355,7 @@ function App() {
             position: "absolute",
             borderRadius: 9999,
           }}
-          src="https://www.gpca.org.ae/wp-content/uploads/2020/03/shutterstock_1091544017.jpg"
+          src="https://via.placeholder.com/270x265"
         />
         <div
           style={{
@@ -373,7 +377,7 @@ function App() {
             left: 591,
             top: 2140,
             position: "absolute",
-            color: "black",
+            color: "white",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -407,15 +411,13 @@ function App() {
             borderRadius: 10,
             border: "0.50px black solid",
           }}
-        >
-        </div>  
-      
+        />
         <div
           style={{
             left: 967,
             top: 2481,
             position: "absolute",
-            color: "black",
+            color: "white",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -425,11 +427,11 @@ function App() {
           CHEMICAL
         </div>
         <div
-          styles={{
+          style={{
             left: 278,
             top: 2486,
             position: "absolute",
-            color: "black",
+            color: "white",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -452,11 +454,11 @@ function App() {
           }}
         />
         <div
-          styles={{
+          style={{
             left: 663,
             top: 2882,
             position: "absolute",
-            color: "black",
+            color: "white",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
@@ -480,7 +482,7 @@ function App() {
             left: 601,
             top: 3133,
             position: "absolute",
-            color: "black",
+            color: "white",
             fontSize: 32,
             fontFamily: "Otomanopee One",
             fontWeight: "400",
