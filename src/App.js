@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import SignIn from "./Pages/Accounts/SignIn";
 import HomePage from "./Pages/Home/HomePage";
+import Alerts from "./Pages/Alerts/Alerts";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/sign-in" element={<SignIn />} />
+          <Route path="/alert-history" element={<Alerts />} />
         </Routes>
       </BrowserRouter>
     </>
