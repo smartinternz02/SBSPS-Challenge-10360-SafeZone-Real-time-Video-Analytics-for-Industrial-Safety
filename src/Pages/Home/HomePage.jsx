@@ -65,6 +65,7 @@ export default function HomePage() {
                                                     <input type="file" onChange={handleFileUpload} />
                                                     <canvas></canvas>
                                                 </div>
+                                                {/* <img src={`${process.env.PUBLIC_URL}/assets/images/cam.png`} alt="" /> */}
                                             </div>
                                         </div>
                                     </div>
