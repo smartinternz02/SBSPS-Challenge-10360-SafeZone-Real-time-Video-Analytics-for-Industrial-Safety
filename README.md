@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# IBM Hack Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Title of the project: 
+Industrial safety using real-time video analytics. Using object detection algorithms to build and deploy a model for the same.
 
-## Available Scripts
+## Project Overview: 
+Our team chose to work on building and deploying a model that makes use of real-time video analytics to ensure the safety of workers in the industrial sector. Our model uses an object detection algorithm known as YOLO(You Only Look Once). As it's a well-known fact that various hazards and accidents are the leading cause of injuries and even death among industrial workers, we chose to build a model that will provide safety to these workers by giving prompt alerts whenever a potential hazard is detected.
 
-In the project directory, you can run:
+## Project Objectives: 
+This model aims to ensure a safer environment for industrial workers. Our team's goal is to deploy an easy-to-access model which can have applications in various industries such as the chemical industry or on construction sites. Manual monitoring is vulnerable to human errors such as overlooking or fatigue. This calls for an urgent need to build and deploy models that ensure workers' safety with maximum accuracy.
 
-### `npm start`
+## Project Scope: 
+This project includes an easy-to-access website that allows the client to visit a portal that leads to the full-fledged model. It conducts real-time video analytics using an object detection algorithm (YOLO) to detect potential hazards. This project however, is not short of limitations. Our project doesn't include a diverse range of models and it can't identify a wide range of objects.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies used: 
+Programming language - Python, Object Detection Algorithm-YOLO, Web Development Languages-HTML, CSS, JS and React
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features and Functionality: 
+The key feature of this project is that our model carries out object detection on real-time videos. Our model has been deployed on a website built by our team members and can be easily accessed through the web portal.
 
-### `npm test`
+## Results and Outcomes: 
+Our team is happy to announce that our model yields an accuracy of 89%. We wanted to build more models for detecting an even more diverse range of entities, however, due to a lack of advanced technology and expertise(since we were still freshers when we started), we couldn't add many more features to the model as we wished to. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Future Enhancements: 
+This model can be further improved by adding more object detection algorithm models for detecting various entities such as people counting, intrusion detection, and fall detection. We could add more features such as temperature control in the metallurgy industry or equipment detection on construction sites. These could be accessed through our website.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributions: 
+Our team involved the contributions of Divanshi Jain, Akarsh Jain, Vishnu Jain, and Khushi Rajurkar. Divanshi and Vishnu worked on front-end development to build the website and Akarsh and Khushi worked on back-end development to build the object detection model. Our team made use of the given time to discuss and distribute the work among the teammates by conducting numerous meetings. Overall, the team members were very cooperative and active throughout the project.
